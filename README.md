@@ -1,0 +1,2 @@
+# VoronTrident
+此仓库用于存放Voron三叉戟视频中提到的所有相关资料
