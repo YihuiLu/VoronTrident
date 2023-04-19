@@ -5,6 +5,8 @@
 >### **视频来源**：[Bilibili@我是小一灰](https://space.bilibili.com/258313383 "我是小一灰")
 >### QQ交流群：940677189（满）、339148314（2群）
 > ### **Gitee（国内）项目地址**：[VoronTrident省心方案](https://gitee.com/yifeilu/voron-trident "我是小一灰")
+> ### **Github项目地址**：[VoronTrident省心方案](https://github.com/YihuiLu/VoronTrident "我是小一灰")
+
 
 ## 其他资料：
 #### **BOM单**：[【腾讯文档】三叉戟BOM](https://docs.qq.com/sheet/DYk5tTHBpSEtPbVh6?tab=BB08J2 "我是小一灰")
