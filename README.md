@@ -11,7 +11,8 @@
 ## 其他资料：
 #### **BOM单**：[【腾讯文档】三叉戟BOM](https://docs.qq.com/sheet/DYk5tTHBpSEtPbVh6?tab=BB08J2 "我是小一灰")
 #### **资料包下载地址1**：[阿里云盘 | 提取码：f53j](https://www.aliyundrive.com/s/3trxumG1iBN "我是小一灰")
-#### **资料包下载地址2**：[一灰博客](https://drive.yifeilu.cn/aliyun/%E8%A7%86%E9%A2%91%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6/%E4%B8%89%E5%8F%89%E6%88%9F "我是小一灰")
+#### **资料包下载地址2**：[百度云盘 | 提取码：ImYH](https://pan.baidu.com/s/1v2R7Pyi2rMt5dJELF42Imw?pwd=ImYH "我是小一灰")
+#### **资料包下载地址3**：[一灰博客](https://drive.yifeilu.cn/aliyun/%E8%A7%86%E9%A2%91%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6/%E4%B8%89%E5%8F%89%E6%88%9F "我是小一灰")
 ##### - ps:中文装配文档在资料包中 -
 ![img_1.png](img_1.png)
 
