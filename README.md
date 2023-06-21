@@ -28,6 +28,10 @@
 ![img_1.png](img_1.png)
 
 ### **方案中使用到的接线图：**
+
+#### **腾讯文档在线查看**：[Voron三叉戟接线图](https://docs.qq.com/pdf/DYkhEa2V5WHFHUHd1? "我是小一灰")
+#### **GoogleDrive在线查看**：[Voron三叉戟接线图](https://drive.google.com/file/d/12_wtBbF1vBpWM0nNy4lV2uWEw3sMo3vR/view?usp=drive_link "我是小一灰")
+
 对于MKS Skipr主板
 ![img_3.png](img_3.png)
 
