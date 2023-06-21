@@ -21,6 +21,9 @@
 
 #### 主板、驱动散热风扇支架：已上传至本项目"主板散热支架"文件夹。
 
+#### 屏幕支架（百度云）：https://pan.baidu.com/s/19mTuXdeaKCQE-1kaWURAGw 提取码: 2v3t
+#### 屏幕支架（GoogleDrive）：https://drive.google.com/file/d/1Th-2ryH3IjCn2Ey7RBrqZtft3pnhlUIA/view?usp=drive_link
+
 ##### - ps:中文装配文档在资料包中 -
 ![img_1.png](img_1.png)
 
