@@ -8,9 +8,11 @@
 > ### **Github项目地址**：[VoronTrident省心方案](https://github.com/YihuiLu/VoronTrident "我是小一灰")
 
 ## 方案介绍：
-一个被300+人选择的Voron三叉戟装配方案，所有搭配、升级方案都经过挑选和论证，也很容易买到，可以帮助你用更低的成本装出一个高性价比的Voron三叉戟，并有三个预算区间可选。
+一个被800+人选择的Voron三叉戟装配方案，所有搭配、升级方案都经过挑选和论证，也很容易买到，可以帮助你用更低的成本装出一个高性价比的Voron三叉戟，并有三个预算区间可选。
 
 ## 其他资料：
+#### **中文安装文档（人工翻译）**：云盘内寻找，太大了Github传不上来
+
 #### **BOM单**：[【腾讯文档】三叉戟BOM](https://docs.qq.com/sheet/DYk5tTHBpSEtPbVh6?tab=BB08J2 "我是小一灰")
 #### **BOM单**：[【GoogleDrive】三叉戟BOM](https://drive.google.com/drive/folders/1CQs1cbmclPbKJLRexb8YkByajW4hnJqs?usp=sharing "我是小一灰")
 
