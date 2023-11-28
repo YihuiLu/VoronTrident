@@ -31,9 +31,10 @@
 
 ### **方案中使用到的接线图：**
 
-对于必趣Manta M8P主板
-#### **腾讯文档在线查看**：[Voron三叉戟接线图-M8P](https://docs.qq.com/pdf/DYlVCck9ic0x2aWxP? "我是小一灰")
-#### **GoogleDrive在线查看**：[Voron三叉戟接线图-M8P](https://drive.google.com/file/d/1_W1rRD1QCwNk8kOPiCpz3VZNuDjkHLc-/view?usp=sharing "我是小一灰")
+对于必趣Manta M8P V2.0主板
+![img_4.png](img_5.jpg)
+
+对于必趣Manta M8P V1.1主板
 ![img_4.png](img_4.jpg)
 
 对于MKS Skipr主板
